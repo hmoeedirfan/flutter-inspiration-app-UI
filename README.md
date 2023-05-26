@@ -1,16 +1,13 @@
-# flutter_inspiration_app
+# Flutter Inspiration App UI Design 
 
-A new Flutter project.
+## Development Setup 
+Clone the repository and run the following commands:
 
-## Getting Started
+```
+flutter pub get
+flutter run
+```
 
-This project is a starting point for a Flutter application.
+## Screen Shots 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![two (1)](https://github.com/hmoeedirfan/flutter-inspiration-app-UI/assets/99192107/854e79ef-ae28-45bd-baf5-a94b8bb81796)
